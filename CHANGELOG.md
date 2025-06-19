@@ -9,7 +9,7 @@
 
 ## [v7.1] - 2025-06-11
 ### Added
-- IMX462カメラのサポートを追加
+- e-CON製IMX462カメラ（e-CAM22_CURZH）のサポートを追加
 - CANFDのサポートを追加
 - SCI5ToGPIO、PWM0、PWM1、SPI、I2C10 用のDTBOを追加
 
