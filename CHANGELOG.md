@@ -2,6 +2,10 @@
 
 本Change Logのフォーマットは [Keep a Changelog](http://keepachangelog.com/) に基づいています。
 
+## [v7.3] - 2025-07-21
+### Fixed
+- CANFDの問題を修正
+
 ## [v7.2] - 2025-06-17
 ### Fixed
 - kakip_ai_appsが実行できない問題を修正
